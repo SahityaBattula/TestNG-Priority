@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-04T11:49:01 IST" name="Suite" finished-at="2021-09-04T11:49:17 IST" duration-ms="16386">
+  <suite started-at="2021-09-04T12:49:43 IST" name="Suite" finished-at="2021-09-04T12:50:05 IST" duration-ms="22201">
     <groups>
     </groups>
-    <test started-at="2021-09-04T11:49:01 IST" name="Test" finished-at="2021-09-04T11:49:17 IST" duration-ms="16386">
+    <test started-at="2021-09-04T12:49:43 IST" name="Test" finished-at="2021-09-04T12:50:05 IST" duration-ms="22201">
       <class name="seleniumTestNGPriority.PriorityTestNG">
-        <test-method signature="test()[pri:1, instance:seleniumTestNGPriority.PriorityTestNG@72cde7cc]" started-at="2021-09-04T11:49:01 IST" name="test" finished-at="2021-09-04T11:49:06 IST" duration-ms="5111" status="PASS">
+        <test-method signature="test()[pri:1, instance:seleniumTestNGPriority.PriorityTestNG@6b8ca3c8]" started-at="2021-09-04T12:49:43 IST" name="test" finished-at="2021-09-04T12:49:55 IST" duration-ms="12207" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method signature="launchGoogle()[pri:2, instance:seleniumTestNGPriority.PriorityTestNG@72cde7cc]" started-at="2021-09-04T11:49:06 IST" name="launchGoogle" finished-at="2021-09-04T11:49:11 IST" duration-ms="5359" status="PASS">
+        <test-method signature="launchGoogle()[pri:2, instance:seleniumTestNGPriority.PriorityTestNG@6b8ca3c8]" started-at="2021-09-04T12:49:55 IST" name="launchGoogle" finished-at="2021-09-04T12:50:00 IST" duration-ms="4909" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchGoogle -->
-        <test-method signature="peformSeachAndClick1stLink()[pri:3, instance:seleniumTestNGPriority.PriorityTestNG@72cde7cc]" started-at="2021-09-04T11:49:11 IST" name="peformSeachAndClick1stLink" finished-at="2021-09-04T11:49:17 IST" duration-ms="5806" status="PASS">
+        <test-method signature="peformSeachAndClick1stLink()[pri:3, instance:seleniumTestNGPriority.PriorityTestNG@6b8ca3c8]" started-at="2021-09-04T12:50:00 IST" name="peformSeachAndClick1stLink" finished-at="2021-09-04T12:50:05 IST" duration-ms="5004" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- peformSeachAndClick1stLink -->
